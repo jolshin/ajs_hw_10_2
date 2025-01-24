@@ -1,1 +1,1 @@
-# ajs_hw_10_2
+# ajs hw 10-2. Async/await.
